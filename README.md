@@ -4,14 +4,15 @@ A single-page, mobile-friendly study guide for NUR 2460 (Family Nursing Care) Ex
 
 - **Week 4** — High Risk Pregnancy
 - **Week 5** — High Risk Labor & Delivery + High Risk Newborn
-- **Week 6** — GYN, STIs, Infertility & Contraception
+- **Week 6, Part 1** — GYN, STIs, Infertility & Contraception
+- **Week 6, Part 2** — Healthy Child Growth & Development (sub-tab inside the Week 6 tab)
 
 Features:
 
-- Tab switcher between Week 4, Week 5, and Week 6
+- Tab switcher between Week 4, Week 5, and Week 6 — Week 6 has its own two sub-tabs (GYN/STIs and Growth & Development) so both halves of that week live under one tab
 - ★ high-yield flags on topics called out by the course's master study guide outline
-- A dedicated, plain-English "Medications (explained)" section for each week, with the exact source document cited per medication in Week 5 and Week 6
-- Live search across all three weeks' topics, medications, and the medication audit
+- A dedicated, plain-English "Medications (explained)" section for each week/sub-tab, with the exact source document cited per medication (Week 5, and both parts of Week 6)
+- Live search across all four content areas' topics, medications, and the medication audit
 - Responsive layout — works on both laptop and phone
 - Light/dark mode (follows your device/browser setting)
 - A custom app icon so the site gets a real icon (not a generic globe) when added to a phone or desktop home screen
