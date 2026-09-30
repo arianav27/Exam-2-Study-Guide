@@ -7,13 +7,14 @@ A single-page, mobile-friendly study guide for NUR 2460 (Family Nursing Care) Ex
 - **Week 6, Part 1** — GYN, STIs, Infertility & Contraception
 - **Week 6, Part 2** — Healthy Child Growth & Development (sub-tab inside the Week 6 tab)
 - **Week 7** — Pediatric Integumentary, GI Dysfunction & Toxicology (its own tab, with 🎯 Exam 2 Blueprint focus badges)
+- **Final Exam Review** — a master review of Weeks 4–7 organized by the Exam 2 Blueprint (7 content areas, 80 items), with blueprint explanations, coverage checks, comparison tables, and a master medication table
 
 Features:
 
-- Tab switcher between Week 4, Week 5, Week 6, and Week 7 — Week 6 has its own two sub-tabs (GYN/STIs and Growth & Development) so both halves of that week live under one tab
+- Tab switcher between Week 4, Week 5, Week 6, Week 7, and Final Exam Review — Week 6 has its own two sub-tabs (GYN/STIs and Growth & Development) so both halves of that week live under one tab
 - ★ high-yield flags on topics called out by the course's master study guide outline, plus 🎯 badges on Week 7 topics named in the Exam 2 Blueprint
-- A dedicated, plain-English "Medications (explained)" section for each week/sub-tab, with the exact source document cited per medication (Week 5, both parts of Week 6, and Week 7)
-- Live search across all five content areas' topics, medications, and the medication audit
+- A dedicated, plain-English "Medications (explained)" section for each week/sub-tab, with the exact source document cited per medication (Week 5, both parts of Week 6, and Week 7); the Final Exam Review adds a searchable master medication table
+- Live search across all six content areas' topics, medications, and the medication audit
 - Responsive layout — works on both laptop and phone
 - Light/dark mode (follows your device/browser setting)
 - A custom app icon so the site gets a real icon (not a generic globe) when added to a phone or desktop home screen
